@@ -30,7 +30,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 <hr>
 <b>FILES: </b>
-1. <b>README.md</b> - this file that explains it all
-2. <b>run_analysis.R</b> - commented R file
-3. <b>tidyData.txt</b> - output from Step 5
-4. <b>codeBook.md</b> - new CodeBook
+1. <b>README.md</b> - this file that explains it all<br>
+2. <b>run_analysis.R</b> - commented R file<br>
+3. <b>tidyData.txt</b> - output from Step 5<br>
+4. <b>codeBook.md</b> - new CodeBook<br>
