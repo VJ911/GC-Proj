@@ -34,3 +34,11 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 2. <b>run_analysis.R</b> - commented R file<br>
 3. <b>tidyData.txt</b> - output from Step 5<br>
 4. <b>codeBook.md</b> - new CodeBook<br>
+<hr>
+<b>run_analysis.R</b><br> does the following:
+ - Gets/loads data
+ - STEP ONE:    Unifies the data sets
+ - STEP TWO:    Creates a subset of columns referencing mean & SD
+ - STEP THREE:  Replace Activity's Reference Number with its name
+ - STEP FOUR:   Improve readability by improving column names
+ - STEP FIVE:   Writes out the TidyData output
