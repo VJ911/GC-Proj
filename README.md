@@ -29,7 +29,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
     5. The work submitted for this project is the work of the student who submitted it.
 
 <hr>
-<b>FILES: </b>
+<b>FILES: </b><br><br>
 1. <b>README.md</b> - this file that explains it all<br>
 2. <b>run_analysis.R</b> - commented R file<br>
 3. <b>tidyData.txt</b> - output from Step 5<br>
